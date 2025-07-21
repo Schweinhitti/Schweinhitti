@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Schweinhitti&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
+
 # Hi there, I'm Schweinhitti! 👋
 
 <div align="center">
@@ -13,6 +17,26 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about anything tech-related - I love to help!
 - ⚡ Fun fact: I believe the best code is written with passion and a cup of coffee ☕
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```javascript
+const schweinhitti = {
+    currentFocus: ["Web Development", "Open Source", "Learning New Technologies"],
+    askMeAbout: ["JavaScript", "Python", "React", "Node.js", "Problem Solving"],
+    technologies: {
+        frontEnd: ["React", "Vue.js", "HTML", "CSS", "JavaScript", "TypeScript"],
+        backEnd: ["Node.js", "Express", "Python"],
+        tools: ["Git", "Docker", "VS Code"],
+        currentlyLearning: ["Always something new! 🚀"]
+    },
+    goals: "Contributing to open source and building amazing projects"
+};
+```
+
+</div>
 
 ## 🛠️ Technologies & Tools
 
@@ -94,4 +118,8 @@ If you like what I do and want to support my work, consider buying me a coffee! 
   <img src="https://visitcount.itsvg.in/api?id=schweinhitti&icon=2&color=6" alt="Profile Views"/>
   
   ⭐️ From [Schweinhitti](https://github.com/schweinhitti)
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
 </div>
