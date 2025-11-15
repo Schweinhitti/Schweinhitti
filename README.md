@@ -10,10 +10,9 @@
 ###
 
 <div align="center">
-  
+  <img src="https://tryhackme-badges.s3.amazonaws.com/tomschmidt.png" alt="Your Image Badge" />
 </div>
 
-###
 
 <br clear="both">
 
